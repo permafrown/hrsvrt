@@ -8,10 +8,11 @@
   <a class="btn btn-dark btn-lg" href="https://hrsvrt.ca/" role="button">Connect with Me</a>
 </div>
 
-<div class="container-fluid">
+<div id="main_content" class="container-fluid">
 
 </div>
 
+</div>
 
 
 <?php include_once 'includes/footer.php';?>
