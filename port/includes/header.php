@@ -12,7 +12,7 @@
   </head>
 <body>
   <div class="container-fluid grad_div">
-    <nav class="navbar navbar-expand-lg navbar-dark grad_div">
+    <nav class="navbar navbar-expand-lg navbar-dark">
       <a class="navbar-brand" href="#">portfolio<i class="fas fa-circle-notch"></i>hrsvrt.ca</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
