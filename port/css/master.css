@@ -2,3 +2,7 @@ html, body {
   background-color: #555;
   color: #DDD;
 }
+
+#header_div {
+  background: #555 url("img/splash.jpg") no-repeat left top;
+}
