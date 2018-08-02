@@ -11,7 +11,7 @@
     <title>portfolio | hrsvrt.ca</title>
   </head>
 <body>
-  <div id="header_div" class="container">
+  <div id="header_div" class="container-fluid">
     <h1>portfolio<i class="fas fa-circle-notch"></i>hrsvrt.ca</h1>
     <h2>take a look at my awesome portfolio of fun stuffs!</h2>
   </div>
