@@ -1,6 +1,6 @@
 <?php include_once 'includes/header.php';?>
 
-<div class="jumbotron grad_div">
+<div class="jumbotron">
   <h1 class="display-4">Welcome to my Portfolio!</h1>
   <p class="lead">Here's where I like to show off some of the great work I can do.</p>
   <hr class="my-4">
@@ -9,14 +9,7 @@
 </div>
 
 <div class="container-fluid">
-  <div class="row">
-    <div class="col-sm">
-      <p>col00</p>
-    </div>
-    <div class="col-sm">
-      <p>col01</p>
-    </div>
-  </div>
+
 </div>
 
 
