@@ -7,7 +7,7 @@ html, body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001b30', endColorstr='#f0b7da',GradientType=0 ); /* IE6-9 */
 }
 
-#navbar {
+.navbar {
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f0b7da+0,fecde0+64,001b30+89 */
 background: #f0b7da; /* Old browsers */
 background: -moz-linear-gradient(top,  #f0b7da 0%, #fecde0 64%, #001b30 89%); /* FF3.6-15 */
