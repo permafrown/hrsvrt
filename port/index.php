@@ -3,10 +3,10 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-sm">
-        <h3>col00</h3>
+        <p>col00</p>
       </div>
       <div class="col-sm">
-        <h3>col01</h3>
+        <p>col01</p>
       </div>
     </div>
   </div>
