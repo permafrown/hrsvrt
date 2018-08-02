@@ -10,6 +10,6 @@
   </head>
 <body>
   <div class="container-fluid">
-    <h1>portfolio | hrsvrt.ca</h1>
+    <h1>portfolio <i class="fas fa-circle-notch"></i> hrsvrt.ca</h1>
     <p>frealz again</p>
   </div>
