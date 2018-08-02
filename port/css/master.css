@@ -4,5 +4,6 @@ html, body {
 }
 
 #header_div {
-  background: #555 url("../img/splash.jpg") no-repeat fixed contain;
+  background: #555 url("../img/splash.jpg") no-repeat fixed;
+  background-size: contain;
 }
