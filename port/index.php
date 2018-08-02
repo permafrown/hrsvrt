@@ -1,6 +1,16 @@
 <?php include_once 'includes/header.php';?>
 
-    <h1>portfolio | hrsvrt.ca</h1>
-    <p>frealz again</p>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm">
+        <h3>col00</h3>
+      </div>
+      <div class="col-sm">
+        <h3>col01</h3>
+      </div>
+    </div>
+  </div>
+
+
 
 <?php include_once 'includes/footer.php';?>
