@@ -4,5 +4,5 @@ html, body {
 }
 
 #header_div {
-  background: #555 url("./img/splash.jpg") no-repeat left top;
+  background: #555 url("../img/splash.jpg") no-repeat left top;
 }
