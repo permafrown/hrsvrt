@@ -1,7 +1,7 @@
 html, body {
 }
 
-#header_div {
+.grad_div {
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#885588+45,ddbbdd+100 */
   background: rgb(136,85,136); /* Old browsers */
   background: -moz-linear-gradient(left,  rgba(136,85,136,1) 45%, rgba(221,187,221,1) 100%); /* FF3.6-15 */
