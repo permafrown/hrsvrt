@@ -2,10 +2,10 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>port test</title>
+    <title>portfolio | hrsvrt.ca</title>
   </head>
   <body>
-    <h1>port test</h1>
+    <h1>portfolio | hrsvrt.ca</h1>
     <p>frealz</p>
   </body>
 </html>
